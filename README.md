@@ -31,7 +31,7 @@ Sou um profissional autodidata, com mente analítica e foco em resultados, sempr
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="left" alt="VSCode" title="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="Cursor" title="Cursor" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=DiGZkjCzyZXn&format=png"/>
-<img align="left" alt="Lovable" title="Lovable" width="30px" style="padding-right:10px;" src="https://imgur.com/E3Az7Av"/>
+<img align="left" alt="Lovable" title="Lovable" width="30px" style="padding-right:10px;" src="https://i.imgur.com/E3Az7Av.png"/>
 <br/><br/>
 
 ### ✨ O que me motiva
