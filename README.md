@@ -30,6 +30,8 @@ Sou um profissional autodidata, com mente analítica e foco em resultados, sempr
 <img align="left" alt="N8N" title="N8N" width="30px" style="padding-right:10px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--FsvYI0rN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://docs.n8n.io/_images/n8n-docs-icon.svg"/>
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="left" alt="VSCode" title="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+<img align="left" alt="Cursor" title="Cursor" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=DiGZkjCzyZXn&format=png"/>
+<img align="left" alt="Lovable" title="Lovable" width="30px" style="padding-right:10px;" src="https://mintlify.s3-us-west-1.amazonaws.com/lovable-f9060f1e/_generated/favicon/apple-touch-icon.png?v=3"/>
 <br/><br/>
 
 ### ✨ O que me motiva
