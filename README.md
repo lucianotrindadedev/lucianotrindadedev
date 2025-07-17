@@ -8,7 +8,7 @@ Sou um profissional autodidata, com mente analítica e foco em resultados, sempr
   <!-- ⭐️ Substitua {github_username} pelo seu usuário antes de publicar -->
   <a href="https://github.com/lucianotrindadedev?tab=repositories&sort=stargazers">
     <img alt="Total de estrelas" title="Total de estrelas no GitHub"
-         src="https://custom-icon-badges.demolab.com/github/stars/{github_username}?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+         src="https://custom-icon-badges.demolab.com/github/stars/lucianotrindadedev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
   </a>
   <a href="https://github.com/{github_username}?tab=followers">
     <img alt="Seguidores" title="Me siga no GitHub"
@@ -43,9 +43,9 @@ Sou um profissional autodidata, com mente analítica e foco em resultados, sempr
 <p>
   <!-- Ajuste {github_username} antes de publicar -->
   <img align="left" alt="GitHub Stats" height="200"
-       src="https://github-readme-stats.vercel.app/api?username={github_username}&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+       src="https://github-readme-stats.vercel.app/api?username=lucianotrindadedev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
   <img align="left" alt="Top Langs" height="200"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username={github_username}&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianotrindadedev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"/>
 </p>
 
 <br clear="both"/>
