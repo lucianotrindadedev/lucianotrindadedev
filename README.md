@@ -26,7 +26,7 @@ Sou um profissional autodidata, com mente analítica e foco em resultados, sempr
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 <img align="left" alt="WordPress" title="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"/>
 <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-<img align="left" alt="Supabase" title="Supabase" width="30px" style="padding-right:10px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.refrsports.com%2Fintegrations%2Fsupabase&psig=AOvVaw3Juwkp63aP6xzFBfbP-d7n&ust=1752852389866000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCc2fKZxI4DFQAAAAAdAAAAABAW"/>
+<img align="left" alt="Supabase" title="Supabase" width="30px" style="padding-right:10px;" src="https://icons8.com/icon/grZaE9tjqDyr/supabase"/>
 <img align="left" alt="N8N" title="N8N" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png"/>
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="left" alt="VSCode" title="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
