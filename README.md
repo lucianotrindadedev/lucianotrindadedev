@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full‑Stack & Especialista em Automação`**
 
-Sou um profissional autodidata, com mente analítica e foco em resultados, sempre em busca de novos desafios e aprendizados. Ao longo de 15 anos de carreira, transformo problemas complexos em soluções escaláveis usando desenvolvimento web, automação e inteligência artificial. Domino um amplo ecossistema de ferramentas — de WordPress e Docker a N8N, Supabase e Evolution API — para entregar eficiência, inovação e excelente experiência de usuário.
+Sou um desenvolvedor, com mente analítica e foco em resultados, sempre em busca de novos desafios e aprendizados. Formado em Análises e Desenvolvimento de Sistemas pela Faculdade Estácio de Sá. Ao longo de 15 anos de carreira, transformo problemas complexos em soluções escaláveis usando desenvolvimento web, automação e inteligência artificial. Domino um amplo ecossistema de ferramentas — de WordPress e Docker a N8N, Supabase e Evolution API — para entregar eficiência, inovação e excelente experiência de usuário.
 
 <p align="left">
   <!-- ⭐️ Substitua {github_username} pelo seu usuário antes de publicar -->
