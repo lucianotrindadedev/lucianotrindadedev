@@ -2,7 +2,13 @@
 
 **`Desenvolvedor Full‑Stack & Especialista em Automação`**
 
-Sou um desenvolvedor, com mente analítica e foco em resultados, sempre em busca de novos desafios e aprendizados. Formado em Análises e Desenvolvimento de Sistemas pela Faculdade Estácio de Sá. Ao longo de 15 anos de carreira, transformo problemas complexos em soluções escaláveis usando desenvolvimento web, automação e inteligência artificial. Domino um amplo ecossistema de ferramentas — de WordPress e Docker a N8N, Supabase e Evolution API — para entregar eficiência, inovação e excelente experiência de usuário.
+Sou desenvolvedor full‑stack com mentalidade analítica, foco em resultados e paixão por explorar novos horizontes. Graduado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá, acumulo 15 anos de experiência convertendo desafios complexos em produtos escaláveis.
+
+➜ No‑Code & Low‑Code: construo MVPs e sistemas de produção em plataformas visuais (Lovable.dev, Bubble, N8N, Make, Zapier), reduzindo tempo‑to‑market sem abrir mão da qualidade.
+➜ Vibe Coding com IA: integro modelos de linguagem e visão computacional para criar rotinas inteligentes – de agentes de atendimento no WhatsApp a pipelines de dados auto‑otimizáveis.
+➜ Stack tradicional: WordPress, PHP/Laravel, JavaScript/TypeScript, Docker, Supabase, Evolution API e infraestrutura Linux.
+
+Minha missão é turbinar negócios com automação, UX impecável e doses generosas de criatividade — entregando valor rápido hoje e criando bases sólidas para o amanhã.
 
 <p align="left">
   <!-- ⭐️ Substitua {github_username} pelo seu usuário antes de publicar -->
