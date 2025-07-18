@@ -2,14 +2,14 @@
 
 **`Desenvolvedor Full‑Stack & Especialista em Automação`**
 
-Sou desenvolvedor full‑stack com mentalidade analítica, foco em resultados e paixão por explorar novos horizontes. Graduado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá, acumulo 15 anos de experiência convertendo desafios complexos em produtos escaláveis.
-
-➜ No‑Code & Low‑Code: construo MVPs e sistemas de produção em plataformas visuais (Lovable.dev, Bubble, N8N, Make, Zapier), reduzindo tempo‑to‑market sem abrir mão da qualidade.
-➜ Vibe Coding com IA: integro modelos de linguagem e visão computacional para criar rotinas inteligentes – de agentes de atendimento no WhatsApp a pipelines de dados auto‑otimizáveis.
-➜ Stack tradicional: WordPress, PHP/Laravel, JavaScript/TypeScript, Docker, Supabase, Evolution API e infraestrutura Linux.
-
-Minha missão é turbinar negócios com automação, UX impecável e doses generosas de criatividade — entregando valor rápido hoje e criando bases sólidas para o amanhã.
-
+Sou desenvolvedor full‑stack com mentalidade analítica, foco em resultados e paixão por explorar novos horizontes. Graduado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá, acumulo 15 anos de experiência convertendo desafios complexos em produtos escaláveis.<br>
+<br>
+➜ No‑Code & Low‑Code: construo MVPs e sistemas de produção em plataformas visuais (Lovable.dev, N8N, Make, Zapier), reduzindo tempo‑to‑market sem abrir mão da qualidade.<br>
+➜ Vibe Coding com IA: integro modelos de linguagem e visão computacional para criar rotinas inteligentes – de agentes de atendimento no WhatsApp a pipelines de dados auto‑otimizáveis.<br>
+➜ Stack tradicional: WordPress, PHP/Laravel, JavaScript/TypeScript, Docker, Supabase, Evolution API e infraestrutura Linux.<br>
+<br>
+Minha missão é turbinar negócios com automação, UX impecável e doses generosas de criatividade — entregando valor rápido hoje e criando bases sólidas para o amanhã.<br>
+<br>
 <p align="left">
   <!-- ⭐️ Substitua {github_username} pelo seu usuário antes de publicar -->
   <a href="https://github.com/lucianotrindadedev?tab=repositories&sort=stargazers">
