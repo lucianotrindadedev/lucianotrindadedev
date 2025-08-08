@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full‑Stack & Especialista em Automação`**
 
-Sou desenvolvedor full‑stack com mentalidade analítica, foco em resultados e paixão por explorar novos horizontes. Graduado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá, acumulo 15 anos de experiência convertendo desafios complexos em produtos escaláveis.<br>
+Sou AI Full Stack DEV com mentalidade analítica, foco em resultados e paixão por explorar novos horizontes. Graduado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá, acumulo 15 anos de experiência convertendo desafios complexos em produtos escaláveis.<br>
 <br>
 ➜ No‑Code & Low‑Code: construo MVPs e sistemas de produção em plataformas visuais (Lovable.dev, N8N, Make, Zapier), reduzindo tempo‑to‑market sem abrir mão da qualidade.<br>
 ➜ Vibe Coding com IA: integro modelos de linguagem e visão computacional para criar rotinas inteligentes – de agentes de atendimento no WhatsApp a pipelines de dados auto‑otimizáveis.<br>
